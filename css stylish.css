@@ -1,0 +1,9 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("mobile.facebook.com") {
+body{max-width:680px;margin:0px auto!important;}
+#root div span{max-width:600px;margin:0px auto;}
+}
+@-moz-document domain("m.facebook.com") {
+body{max-width:680px;margin:0px auto!important;}
+#root div span{max-width:600px;margin:0px auto;}
+}
