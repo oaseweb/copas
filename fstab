@@ -1,0 +1,2 @@
+#fstab
+/dev/disk/by-uuid/9D0E-AD56 /mnt/data auto rw,umask=0000,nosuid,nodev,nofail,x-gvfs-show,x-gvfs-name=Data 0 0
